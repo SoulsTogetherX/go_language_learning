@@ -1,4 +1,4 @@
-module day/1/fibonacci
+module day/1/hello
 
 go 1.22.4
 
